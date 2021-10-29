@@ -2,8 +2,8 @@
 
 school = "Fairfield Prep"
 
-first_half = school[0:9]
-second_half = school[9:14]
+first_half = school[:9]
+second_half = school[9:]
 
 print(first_half)
 print(second_half)
