@@ -3,7 +3,7 @@
 word = "arcane"
 
 if word < "banana":
-    print( word + " is smaller than banana.")
+    print(word + " is smaller than banana.")
 elif word > "banana":
     print(word + " is larger than banana.")
 else:
